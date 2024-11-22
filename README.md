@@ -38,7 +38,7 @@
 
 ---
 ## 📊 GitHub Stats  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsanr0111&layout=compact&theme=radical)](https://github.com/dlsanr0111)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dlsanr0111&theme=radical)](https://git.io/streak-stats)
 [![Mook's github stats](https://github-readme-stats.vercel.app/api?username=dlsanr0111&show_icons=true&theme=radical)](https://github.com/dlsanr0111)  
 
 ---
