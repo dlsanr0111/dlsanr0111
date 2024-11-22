@@ -1,5 +1,5 @@
 # 👾 About Me
-Hi! I’m **Choi Inmook**, always challenging myself to experience as much as I can.  
+Hi! I’m **Mook**, always challenging myself to experience as much as I can.  
 Currently, I’m growing through various experiences as a student in the Department of Arts and Engineering at Chung-Ang University.  
 Recently, I’ve been deeply interested in **game programming** and studying **Unreal Engine**.  
 
