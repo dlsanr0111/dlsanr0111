@@ -1,32 +1,33 @@
 # 👾 About Me
-안녕하세요! 최대한 많은 것들을 느끼기 위해 도전하는 **최인묵**입니다.  
-현재 중앙대학교 예술공학부에서 다양한 경험을 통해 성장 중에 있습니다.  
-최근에는 **게임 프로그래밍**에 관심이 많아 **언리얼 엔진**을 공부 중입니다.  
+Hi! I’m **Choi Inmook**, always challenging myself to experience as much as I can.  
+Currently, I’m growing through various experiences as a student in the Department of Arts and Engineering at Chung-Ang University.  
+Recently, I’ve been deeply interested in **game programming** and studying **Unreal Engine**.  
 
 ---
 ## 📚 Projects  
 ### 🎮 Games  
-- **테트리스**
+- **Tetris**
   - C++
-  - 블록 이동, 회전, 점수 계산 등의 로직 구현.  
-- **오목**
+  - Implemented logic for block movement, rotation, and score calculation.  
+- **Omok**
   - C  
-  - 두 명이 플레이할 수 있는 콘솔 기반 오목 게임.  
-  - 승리 조건 및 규칙 검사 로직 구현.
-- **Unity 2D 슈팅 게임**
+  - Console-based Omok game for two players.  
+  - Developed rules and victory condition logic.  
+- **Unity 2D Shooting Game**
   - C#  
-  - 간단한 적 생성, 충돌 처리, 점수 시스템 구현.
+  - Simple enemy spawning, collision handling, and scoring system.  
+
 ### 📄 Web Project
-- **수들 (수능 버전의 Wordle)**
-  - Python, TypeScript
-  - 수능 단어 기반 Wordle 게임 제작.  
-  - 정답 추리 시스템과 제한 시간 기능 포함.
+- **Sudle (Wordle with Korean SAT vocabulary)**
+  - Python, TypeScript  
+  - Created a Wordle game based on Korean SAT vocabulary.  
+  - Included a word guessing system and time limit feature.  
 
 ---
 ## 🎯 Goals  
-- 프로젝트형 개발 동아리 창설(~24/12/31)
-- 언리얼 엔진 활용 비디오 게임 제작하기 프로젝트(~24/12/31)
-- 일본어 N2 공부(~25/8/31)
+- Establish a project-based development club (~24/12/31)  
+- Create a video game using Unreal Engine (~24/12/31)  
+- Study Japanese and pass JLPT N2 (~25/8/31)  
 
 ---
 ## 💻 Tech Stack  
@@ -36,15 +37,14 @@
 ### Tools  
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)  
 
-
 ---
 ## 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dlsanr0111&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dlsanr0111&theme=radical)](https://git.io/streak-stats)  
 [![Mook's github stats](https://github-readme-stats.vercel.app/api?username=dlsanr0111&show_icons=true&theme=radical)](https://github.com/dlsanr0111)  
 
 ---
 ## 🤝 Collaboration
-함께 프로젝트 하실 분을 항상 찾고있습니다!🧐<br>저와 함께 흥미롭고 의미있는 개발 여정들을 만들어가고 싶으시다면, 언제든 연락주세요!
+I’m always looking for people to collaborate on projects with! 🧐<br>If you’re interested in creating exciting and meaningful development journeys together, feel free to reach out anytime!  
 
 ---
 ## 📫 Contact Me  
