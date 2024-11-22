@@ -10,7 +10,8 @@
   - 간단한 적 생성, 충돌 처리, 점수 시스템 구현.  
 - **수들 (수능 버전의 Wordle)**  
   - 수능 단어 기반 Wordle 게임 제작.  
-  - 정답 추리 시스템과 제한 시간 기능 포함.  
+  - 정답 추리 시스템과 제한 시간 기능 포함.
+  - 파이썬 TypeScript 
 
 ### 📈 Console Project  
 - **테트리스**  
@@ -22,7 +23,7 @@
 
 ---
 ## 🎯 Goals  
-- 게임 개발 프로젝트 동아리 창설(~24/12/31)
+- 프로젝트형 개발 동아리 창설(~24/12/31)
 - 언리얼 엔진 활용 비디오 게임 제작하기 프로젝트(~24/12/31)
 - 일본어 N2 공부(~25/8/31)
 
@@ -36,8 +37,8 @@
 
 ---
 ## 📊 GitHub Stats  
-[![Mook's github stats](https://github-readme-stats.vercel.app/api?username=dlsanr0111&show_icons=true&theme=radical)](https://github.com/dlsanr0111)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsanr0111&layout=compact&theme=radical)](https://github.com/dlsanr0111)
+[![Mook's github stats](https://github-readme-stats.vercel.app/api?username=dlsanr0111&show_icons=true&theme=radical)](https://github.com/dlsanr0111)  
 
 ---
 ## 🤝 Collaboration
