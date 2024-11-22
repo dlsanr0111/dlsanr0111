@@ -34,7 +34,8 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 
 ### Tools  
-![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)  
+![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)  ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unreal-engine&logoColor=white)  ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)  ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white)  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white)  
+
 
 ---
 ## 📊 GitHub Stats  
