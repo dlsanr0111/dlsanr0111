@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/dlsanr0111/dlsanr0111/blob/output/github-contribution-grid-snake.svg">
+</div>
+출처: https://sseona814.tistory.com/12 [요리보고 저리봐도 알수없는 코딩💻:티스토리]
+
 # 👾 About Me
 Hi! I’m **Mook**, always challenging myself to experience as much as I can.  
 Currently, I’m growing through various experiences as a student in the Department of Arts and Engineering at Chung-Ang University.  
