@@ -2,40 +2,21 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 매일 00:00 UTC (한국시간 오전 9시쯤)
+    - cron: "0 0 * * *"   # 매일 00:00 UTC
   workflow_dispatch:
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
-
+          # 필수 값
           token: ${{ secrets.METRICS_TOKEN }}
           user: dlsanr0111
           template: classic
-          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
 
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_sections: most-used
-          plugin_languages_ignored: html, css
-          plugin_languages_details: percentage
-
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_limit: 8
-
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          plugin_isometric_contributions: yes
-          plugin_isometric_contributions_duration: full-year
+          # (일단 플러그인 전부 OFF)
+          base: header, repositories
