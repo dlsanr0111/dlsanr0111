@@ -47,7 +47,7 @@ Chungang-University in Seoul 재학중<br/>
 <ul>
 <li>
 <strong>2025.10.31 ~ 2025.10.31</strong><br/>
-<a href='https://github.com/Tae4an/PES'> 2025 SUMTECH 해커톤 – PES 팀 리더</a><br/>
+<a href='https://github.com/Tae4an/PES'> 2025 SUMTECH 해커톤</a><br/>
 <sub>재난 문자/대피 안내 서비스 기획 · 프론트 개발 · PR</sub>
 </li>
 <br/>
