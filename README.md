@@ -63,7 +63,7 @@ Chungang-University in Seoul 재학중<br/>
   width="52%"
   align="left"
 />
-
+<!--
 <a href="https://solved.ac/mook">
   <img
     src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mook"
@@ -72,6 +72,7 @@ Chungang-University in Seoul 재학중<br/>
     align="right"
 />
 </a>
+-->
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=dlsanr0111&show_icons=true&theme=transparent"
